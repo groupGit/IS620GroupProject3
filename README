@@ -1,0 +1,5 @@
+Instructions: 
+To checkin - 
+git remote set-url origin https://groupGit@github.com/groupGit/IS620GroupProject3.git
+git push -f origin master
+
