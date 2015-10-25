@@ -1,0 +1,20 @@
+# IS620 Group Project
+
+(names ...)
+
+## Procedure:
+
+* We started with a template file where we split the data so we would have comparable results.
+    * https://github.com/groupGit/IS620GroupProject3/blob/master/Project3_version_a.ipynb
+
+* We then experimented with different techniques and different features
+
+    * Max Entropy: https://github.com/groupGit/IS620GroupProject3/blob/master/Project3_MaxEntropy.ipynb
+    
+    * Random Forest: https://github.com/groupGit/IS620GroupProject3/blob/master/RandomForest.ipynb
+    
+    * Decision Tree: https://github.com/groupGit/IS620GroupProject3/blob/master/DecisionTreeT2.ipynb
+    
+    * Naive Bayes:
+        * https://github.com/groupGit/IS620GroupProject3/blob/master/naive_bayes_2a.ipynb
+        * http://localhost:8888/notebooks/naive_bayes2.ipynb
