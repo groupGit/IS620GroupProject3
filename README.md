@@ -18,9 +18,7 @@ The dataset was pretty small with 7944 rows and was split into three data-frames
 
 4. Naive Bayes:
 a) https://github.com/groupGit/IS620GroupProject3/blob/master/naive_bayes_2a.ipynb
-
 b) https://github.com/groupGit/IS620GroupProject3/blob/master/naive_bayes_2.ipynb
-
 c) https://github.com/groupGit/IS620GroupProject3/blob/master/naive_bayes_2c.ipynb
 
 
